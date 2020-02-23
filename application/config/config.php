@@ -17,7 +17,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | environments.
 |
 */
-$config['base_url'] = 'http://35.208.214.240/php';
+$config['base_url'] = 'http://35.208.214.240/php/';
 
 /*
 |--------------------------------------------------------------------------
